@@ -1,10 +1,11 @@
 # RRSSH-Pen-Testing-Tool
 A comprehensive, user-friendly penetration testing toolkit designed to streamline security assessments
 
+
 **Version**: 1.0.0  
 **License**: MIT License  
 
-R00tReversalSSH's Pen Testing Toolkit is a powerful, open-source ethical hacking tool designed to simplify penetration testing and network analysis. I made it with the standard go-to tools. But leaving the source-code open for FULL customization & integration . You can EASILY intergrate all the tools on your Linux/Windows machines for optimal ease of use. With a sleek interface, it brings commonly used tools into one cohesive application.
+R00tReversalSSH's Pen Testing Toolkit is a powerful, open-source ethical hacking tool designed to simplify penetration testing and network analysis. I made it with the standard go-to tools. But leaving the source-code open for FULL customization & integration . You can EASILY intergrate all the tools on your Linux/Windows machines for optimal ease of use. With a sleek interface, it brings commonly used tools into one cohesive application. MAKE SURE TO CONFIGURE THE SCRIPT TO YOUR NEEDS!!! OR IT WONT WORK! I have created comments within the script to help the skidz. Enjoy, Learn, & HackThePlanet!
 
 ---
 
