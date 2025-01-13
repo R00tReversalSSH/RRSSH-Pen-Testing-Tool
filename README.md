@@ -1,6 +1,8 @@
 # RRSSH-Pen-Testing-Tool
 A comprehensive, user-friendly penetration testing toolkit designed to streamline security assessments
 
+Shout out to !HACKFORUMS.NET!
+
 
 **Version**: 1.0.0  
 **License**: MIT License  
